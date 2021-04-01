@@ -32,6 +32,7 @@ def application(environ, start_response):
 
     return response_content
 
+x = 1234
 
 HOST = "localhost"
 PORT = 8000
